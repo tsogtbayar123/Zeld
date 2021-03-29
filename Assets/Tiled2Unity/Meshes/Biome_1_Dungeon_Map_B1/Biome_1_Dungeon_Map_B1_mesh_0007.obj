@@ -1,0 +1,31 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'Biome_1_Dungeon_Map_B1_mesh_0007.obj'
+
+# Vertices (Count = 8)
+v -304 -32 -0.09090909
+v -320 -32 -0.09090909
+v -320 -16 -0.09090909
+v -304 -16 -0.09090909
+v -320 -32 -0.09090909
+v -336 -32 -0.09090909
+v -336 -16 -0.09090909
+v -320 -16 -0.09090909
+
+# Texture cooridinates (Count = 6)
+vt 0.25 0.84375
+vt 0.28125 0.84375
+vt 0.28125 0.875
+vt 0.25 0.875
+vt 0.3125 0.84375
+vt 0.3125 0.875
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g Biome_1_Dungeon_Map_B1_mesh_0007
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/2/1 6/5/1 7/6/1 8/3/1
+
